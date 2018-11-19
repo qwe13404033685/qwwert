@@ -16,13 +16,13 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+     "name" : "A team racing",
+      "countDown" : "10",
+      "feature" : "blue gas collection",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "temp help",
+        "common victory",
+        "havae a sense of unity"
       ]
     },
     {
