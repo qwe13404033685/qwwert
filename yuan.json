@@ -26,13 +26,15 @@
       ]
     },
     {
-      "name" : "Encounter racing",
-      "countDown" : "10",
-      "feature" : "Transmission and acceleration",
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
       "powers" : [
-        "you may get married",
-        "make friend",
-        "talk with opposite sex"
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
       ]
     }
   ]
