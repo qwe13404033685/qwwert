@@ -1,18 +1,18 @@
 {
   "squadName" : "intriduce the QQ speed",
-  "The publishing company" : "Tencent     ",
+  "The publishing company" : "Tencent____",
   "data" : 2017,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Personal racing",
+      "count down" : 10,
+      "feature" : "gas collection",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "drifting",
+        "air escape",
+        "strike"
       ]
     },
     {
