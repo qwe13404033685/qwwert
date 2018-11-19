@@ -11,30 +11,28 @@
       "feature" : "gas collection",
       "powers" : [
         "drifting",
-        "air escape",
+        "gas escape",
         "strike"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "A team racing",
+      "countDown" : "10",
+      "feature" : "blue gas collection",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "temp help",
+        "common victory",
+        "havae a sense of unity"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Encounter racing",
+      "countDown" : "10",
+      "feature" : "Transmission and acceleration",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "you may get married",
+        "make friend",
+        "talk with opposite sex",
       ]
     }
   ]
