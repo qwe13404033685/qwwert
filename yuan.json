@@ -7,7 +7,7 @@
   "members" : [
     {
       "name" : "Personal racing",
-      "countDown" :10,
+      "countDown" : "10",
       "feature" : "gas collection",
       "powers" : [
         "drifting",
