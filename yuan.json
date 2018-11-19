@@ -16,7 +16,7 @@
       ]
     },
     {
-     "name" : "A team racing",
+     "name" : "team racing",
       "countDown" : "10",
       "feature" : "blue gas collection",
       "powers" : [
@@ -26,13 +26,13 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Encounter racing",
+      "countDown" : "10",
+      "feature" : "Transmission and Acceleration",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
+        "talk with opposite sex",
+        "make frieds",
+        "may get marry",
         "Teleportation",
         "Interdimensional travel"
       ]
